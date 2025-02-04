@@ -7,4 +7,4 @@
 
 #### Image:
 
-<img src=<a href="https://imgbox.com/wzfuruNj" target="_blank"><img src="https://thumbs2.imgbox.com/fa/b9/wzfuruNj_t.jpg" alt="image host"/></a> width="200">
+<img src=<a href="https://imgbox.com/wzfuruNj" target="_blank"><img src="https://thumbs2.imgbox.com/fa/b9/wzfuruNj_t.jpg" alt="image host"/></a>
