@@ -7,8 +7,8 @@
 
 #### Image:
 
-<img src="https://images2.imgbox.com/b3/d5/09sLKh1N_o.png" width="200">
+<img src=https://photos.google.com/photo/AF1QipMBAHGR0ZoPe5gBHxdHaXZK6kCNpy9BCAL8TX2M width="200">
 
 #### Avatar:
 
-<img src="https://images2.imgbox.com/ae/bd/tERTAGTL_o.png" width="75">
+<img https://photos.google.com/photo/AF1QipMBAHGR0ZoPe5gBHxdHaXZK6kCNpy9BCAL8TX2M width="75">
