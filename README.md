@@ -7,8 +7,4 @@
 
 #### Image:
 
-<img src=https://photos.google.com/photo/AF1QipMBAHGR0ZoPe5gBHxdHaXZK6kCNpy9BCAL8TX2M width="200">
-
-#### Avatar:
-
-<img https://photos.google.com/photo/AF1QipMBAHGR0ZoPe5gBHxdHaXZK6kCNpy9BCAL8TX2M width="75">
+<img src=<a href="https://imgbox.com/wzfuruNj" target="_blank"><img src="https://thumbs2.imgbox.com/fa/b9/wzfuruNj_t.jpg" alt="image host"/></a> width="200">
