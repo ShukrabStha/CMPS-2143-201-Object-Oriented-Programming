@@ -7,4 +7,4 @@
 
 #### Image:
 
-<a href="https://imgbox.com/TpSXEGYM" target="_blank"><img src="https://thumbs2.imgbox.com/bf/aa/TpSXEGYM_t.jpg" alt="image host"/><"width=200"></a>
+<a href="https://imgbox.com/TpSXEGYM" target="_blank"><img src="https://thumbs2.imgbox.com/bf/aa/TpSXEGYM_t.jpg" alt="image host" width="300"/></a>
