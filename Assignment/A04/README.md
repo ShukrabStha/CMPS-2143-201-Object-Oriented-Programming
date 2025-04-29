@@ -1,1 +1,4 @@
 <a href="https://imgbox.com/wtLWeTEy" target="_blank"><img src="https://thumbs2.imgbox.com/2f/3d/wtLWeTEy_t.jpg" alt="image host"/></a>
+
+
+On April 24, 2025, Gabriel is giving a presentation about his project titled "Enhancing Information Accessibility through RAG" for Mustangs.io. During his talk, he discusses how his project focuses on improving the way information is accessed and retrieved by using Retrieval-Augmented Generation (RAG) techniques. Gabriel explains how integrating RAG models can help users find more accurate, relevant, and up-to-date information quickly and efficiently. His project aims to make the Mustangs.io platform more user-friendly, intelligent, and responsive to different types of queries. Gabriel also highlights the technical challenges he faced and how he addressed them to ensure smoother, more accessible information flow for all users.
